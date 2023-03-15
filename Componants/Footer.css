@@ -1,0 +1,191 @@
+.nn{
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.nn a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.559);
+}
+.copyright a:hover{
+    color: red;
+}
+.copy a:hover{
+    color: red;
+}
+.copy1 a:hover{
+    color: red;
+}
+.copy2 a:hover{
+    color: red;
+}
+.copy3 a:hover{
+    color: red;
+}
+a:hover{
+    color: red;
+}
+.nn h2{
+    font-size: 25px;
+}
+.copyright1{
+    text-align: center;
+    font-size: 7px;
+    
+}
+.copyright1 h2{
+    font-size: 26px;
+    color: red;
+}
+.copp{
+    text-align: center;
+   margin: 40px;
+}
+.copp a{
+    margin: 15px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.47);
+}
+.copp a:hover{
+    color: red;
+}
+.copp h5{
+    font-size: 18px;
+}
+.copp1{
+    text-align: center;
+}
+.copp1 h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.copp2{
+   margin-left:18rem;
+ 
+}
+.copp2 img{
+    margin: 40px;
+    width: 50vw;
+    height: 30vh;
+}
+.copp3{
+    text-align: center;
+    color: red;
+}
+.copp4 {
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+    gap:3rem;
+    margin-left: 10rem;
+    margin-right: 4rem;
+    margin-top: 20px;
+}
+.copp4 img{
+    width: 15vw;
+    height: 15vh;
+}
+.copp4 h1{
+    font-size: 5rem;
+    
+}
+
+.copp4 h4{
+    font-size: 5rem;
+}
+.copp4 h2{
+    font-size: 3rem;   
+     font-weight: bold;
+}
+.npm{
+    text-align: center;
+    margin-top: 18rem;
+}
+.npm h2{
+    font-size: 24px;
+    color: red;
+}
+.npm h1{
+    font-weight: bold;
+}
+.npm1{
+    text-align: center;
+    margin-top: 7rem;
+}
+.npm2{
+    margin-top: 10rem;
+    margin-left: 15rem;
+  display: flex;
+  gap: 10px;
+}
+.npm2 img{
+  border-radius: 70%;
+  width: 15vw;
+  height: 20vh;
+}
+.npm2 h4{
+    /* position: absolute;
+    left: 30rem;
+    bottom: 40rem; */
+    
+}
+.npm3{
+    text-align: center;
+    margin: 18rem;
+}
+.npm3 h5{
+    color: red;
+}
+.npm3 h1{
+    font-weight: bold;
+}
+.npm4{
+    display: flex;
+   margin-top:10px;
+   margin-left: 7rem;
+}
+.npm4 img{
+    width: 14vw;
+    height: 16vh;
+}
+.npm4 h2{
+    font-size: 20px;
+    margin: 20px;
+}
+.tt img{
+width: 15vw;
+height: 17vh;
+}
+.npm5{
+    display: flex;
+    margin-left: 7rem;
+    margin-top: 5rem;
+}
+.npm5 img{
+    width: 14vw;
+    height: 17vh;
+}
+.npm5 h2{
+    font-size: 20px;
+    margin:20px;
+}
+.npm6{
+    display: flex;
+    margin-left: 7rem;
+    margin-top: 5rem;
+
+}
+.npm6 img{
+    width: 14vw;
+    height: 17vh;
+    margin: 5px;
+}
+.npm6 h2{
+    font-size: 20px;
+    margin: 20px;
+}
+

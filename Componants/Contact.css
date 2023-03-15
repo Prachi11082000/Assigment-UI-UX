@@ -1,0 +1,150 @@
+.class1{
+    margin-left: 6rem;
+}
+.class1 h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+.class1 h6{
+font-weight: bold;
+font-size: 30px;
+margin-top: 2rem;
+}
+.class2{
+    margin-left: 6rem;
+}
+.class2 form{
+    font-size: 35px;
+    font-weight: bold;
+   
+}
+.class2 form input{
+    margin: 20px;
+}
+.class3{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.span-contai{
+    display: flex;
+    margin-left: 6rem;
+    margin-top: 3rem;
+   
+}
+.span-contai h5{
+    font-weight: bold;
+}
+.span-contai a{
+    text-decoration: none;
+    color: black;
+}
+.class4{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+
+}
+.class5{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.ss{
+    display: flex;
+    margin-left: 6rem;
+    margin-top: 3rem;
+ 
+
+}
+.ss a{
+    text-decoration: none;
+    color: black;
+}
+.ss h5{
+    font-weight: bold;
+    font-size: 20px;
+}
+.class6{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.class7{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.class8{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.clas{
+    border: 1px solid black;
+    margin: 10px;
+    width: 10vw;
+    text-align: center;  
+     border-radius: 3px;
+
+}
+.apple{
+    margin-left: 6rem;
+}
+.apple h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.apple h6{
+border: 1px solid black;
+width: 10vw;
+height: 8vh;
+margin-top: 6rem;
+text-align: center;
+border-radius: 3px;
+
+}
+.app{
+   display: flex;
+  
+}
+.app3{
+    margin-left: 15rem;
+    margin-top: 6rem;
+}
+.app h5{
+    margin-left: 14rem;
+    margin-top: 4rem;
+}
+.app4 img{
+    width: 40vw;
+    height: 50vh;
+}
+.app4 p{
+    font-size: 20px;
+}
+.aa6{
+    display: flex;
+    margin-left: 6rem;
+}
+.ap img{
+    margin-top: 4rem;
+}
+.ap p{
+    font-size: 20px; 
+}
+.ap{
+    margin-left: 5rem;
+}

@@ -1,0 +1,203 @@
+.box1{
+  margin-bottom:2%;
+  margin-left:50px;
+  padding:2px;
+  width: 13vw;
+  
+}
+.box2{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 24%;
+    top: 4%;
+ 
+}
+.box2 a{
+    text-decoration: none;
+    margin:20px;
+    font-size: 17px;
+    color:white
+}
+.box2 button{
+    width: 12vw;
+    height: 10vh;
+    margin: 20px;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+/* .box2 a:hover{
+    color: red;
+    
+} */
+/* a:hover{
+ color: red;
+ background-color: red;
+} */
+.box3{
+   
+    width: 13vw;
+    height: 10vh;
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: rgb(122, 105, 105);
+    color: white;
+}
+.box2 a:hover{
+    color: red;
+}
+.box3 button{
+    color: white;
+}
+.box4{
+    margin-left: 100px;
+    color: blue;
+}
+.bb{
+    margin-left: 90px;
+
+}
+.bb a{
+  text-decoration: none;
+    margin: 20px;
+    color: black;
+    margin-top: 20px;
+}
+.box5{
+    margin-left: 6rem;
+    padding: 15px;
+    font-size: 140px;
+}
+.box5 h1{
+    font-size: 60px;
+}
+.nax{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-left: 6rem;
+   
+}
+.nax h3{
+    font-size: 20px;
+}
+.box6 img{
+    width: 40vw;
+    height: 50vh;
+    padding: 18px;
+}
+.box6 h1{
+    padding: 10px;
+}
+.box6 a{
+    text-decoration: none;
+    color: black;
+}
+
+.box7 img{
+    width: 40vw;
+    height: 50vh;
+  
+}
+.box7 h1{
+    padding: 10px;
+}
+.box7 a{
+    text-decoration: none;
+    color: black;
+}
+
+.box8 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box8 a{
+    text-decoration: none;
+    color: black;
+}
+.box9 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box9 a{
+    text-decoration: none;
+    color: black;
+}
+.box10 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box10 a{
+    text-decoration: none;
+    color: black;
+}
+.box11 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box11 a{
+    text-decoration: none;
+    color: black;
+}
+.box12 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box12 a{
+    text-decoration: none;
+    color: black;
+}
+.box13 img{
+    width: 40vw;
+    height: 50vh;
+}
+.box13 h1{
+    text-decoration: none;
+    color: black;
+}
+.box13 a{
+    text-decoration: none;
+}
+.box15{
+    border: 2px solid rgba(61, 57, 57, 0.244);
+    width: 80vw;
+    height: 90px;
+    margin-left: 80px;
+    padding: 80px;
+    margin: 90px;
+}
+.box15 h1{
+   margin: 1px;
+  
+}
+.box16{
+    border: 2px solid green;
+    width: 97vw;
+    height: 30rem;
+    background-image:linear-gradient(rgb(84, 17, 147),purple) ;
+
+}
+.box16 h1{
+    text-align: center;
+    margin: 8rem;
+    color: white;
+    font-size: 60px;
+}
+.box16 button{
+   margin-left: 28rem;
+   font-size: 25px;
+   width: 25vw;
+   height: 10vh;
+   background-color:white;
+   color: black;
+   
+ /* position: absolute;
+ left: 40%;
+ bottom: 1%; */
+}
+.box16 a{
+    text-decoration: none;
+    color: black;
+}  
